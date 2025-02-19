@@ -1,0 +1,1 @@
+The Firebase SDK may throw an error if the app is not properly initialized before using Firebase services, resulting in unexpected behavior. This frequently happens when Firebase is used in a background thread without proper context initialization.
